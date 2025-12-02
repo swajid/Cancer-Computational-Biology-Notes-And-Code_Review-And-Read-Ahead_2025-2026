@@ -12,6 +12,8 @@ self note: prolly should just write the definition the day of, but weekends are 
 * etc etc will think of more things to keep myself busy
 * i could probably find a biochemistry undergrad class on youtube and watch the lectures at 2x or 3x the speed to review things
 
+![img](dec-jan-feb-reading-stack.png)
+
 # Solid tumors
 << a table of some sorts here >>
 
