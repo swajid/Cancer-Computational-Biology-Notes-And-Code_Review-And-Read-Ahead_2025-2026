@@ -245,6 +245,7 @@ What determines whether a potential splice site remains cryptic? Several factors
 * immune desert
 * mutual exclusivity
 * evolutionary trajectories
+* [long-read sequencing in cancer genomics - reviews and all about it](https://www.nature.com/collections/heffffjebd)
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
