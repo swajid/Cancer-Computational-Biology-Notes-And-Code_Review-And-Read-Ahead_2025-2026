@@ -259,6 +259,7 @@ What determines whether a potential splice site remains cryptic? Several factors
 
 # Misc
 * [Ideas for nextflow pipeline names](https://en.wikipedia.org/wiki/List_of_proper_names_of_stars) & [this](https://en.wikipedia.org/wiki/List_of_Arabic_star_names) <!-- the foot of the giant!!??? ummm that sounds amazing and totally epic ... which means it going to work 100% of the time 😂 -->
+* ["It is time to think about writing more "f%^k you code," code that gives you real (not local, not time-limited) leverage, similar to "f%^k you money" - Part 1](https://www.herlog.com/it-is-time-to-think-about-writing-more-f-k-you-code-code-that-gives-you-real-not-local-not-time-limited-leverage-similar-to-f-k-you-money-part-1/)
 
 <!--
 # Things I've learned so far
