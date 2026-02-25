@@ -1,5 +1,9 @@
 # Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025-2026
 
+# What I am reading
+* [yeah what's new in sequencers (2025)](https://blog.latch.bio/p/a-primer-on-ngs-technologies-and)
+* [Feb 2026 - Who Sets the Standard?](https://issues.org/who-sets-the-standard/)
+
 weekend/extra reviewing/studying
 papers, code, notes on sequencing, SVs, databases, pipelines
 self note: prolly should just write the definition the day of, but weekends are also ok i guess
