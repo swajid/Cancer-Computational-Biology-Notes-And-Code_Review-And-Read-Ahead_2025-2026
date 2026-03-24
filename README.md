@@ -25,7 +25,8 @@ self note: prolly should just write the definition the day of, but weekends are 
 tags: `#immunesignatures` `#rnaseq`
 - [ ] [2020 - RNA Immune Signatures from Pan-Cancer Analysis Are Prognostic for High-Grade Serous Ovarian Cancer and Other Female Cancers](https://www.mdpi.com/2072-6694/12/3/620) `#immunesignatures` `#rnaseq`
 * [2025 - Limited Role of Microbes in Cancer Suggested by Pan-Cancer Genomic Studies](https://www.genomeweb.com/cancer/limited-role-microbes-cancer-suggested-pan-cancer-genomic-studies)
-
+* [2025 - Lexicon for Clonal Hematopoiesis in Liquid Biopsy](https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.70463)
+  
 <!-- words that come up that i mostly know to define/look into **soon** like over the weekends?? making a dictionary for myself for the future -->
 <!-- my study plan: understand and memorize each section every week, find papers on the topic throughout the week to understand even further, add to it throughout the work week. -->
 
