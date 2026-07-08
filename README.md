@@ -1,4 +1,4 @@
-# Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025-2026
+# Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_[2024/2025, ∞)
 
 # What I am reading
 * [yeah what's new in sequencers (2025)](https://blog.latch.bio/p/a-primer-on-ngs-technologies-and)
@@ -9,6 +9,9 @@ papers, code, notes on sequencing, SVs, databases, pipelines
 self note: prolly should just write the definition the day of, but weekends are also ok i guess
 
 # Goals
+## Fall 2026
+* Come back to this
+
 ## Nov-Dec 2025
 * make a study calendar, review everything that i think i need to review that i wrote/writing about
 * 1st week Dec - memorize the 20 amino acids (just get it out of the way), use to know them, need to just memorize them now (anki)
